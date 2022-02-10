@@ -1,0 +1,17 @@
+{
+    "baseUrl": "https://ruandv.github.io",
+    "requestTimeout": 20000,
+    "responseTimeout": 20000,
+    "retries": {
+      "runMode": 2,
+      "openMode": 0
+    },
+    "testFiles": "**/*.spec.js*",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": "reporterOptions.json"
+    },
+    "projectId": "nwc-schema-transformer",
+    "integrationFolder": "src"
+  }
+  

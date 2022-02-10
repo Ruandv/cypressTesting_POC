@@ -1,0 +1,21 @@
+{
+  "name": "cypresstesting_poc",
+  "version": "1.0.1-dev.3",
+  "description": "Basic visual testing using cypress.io'",
+  "main": "index.js",
+  "scripts": {
+    "release:dev": "standard-version --prerelease dev",
+    "release": "standard-version",
+    "cypress": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "standard-version": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/cypress-image-snapshot": "^3.1.6",
+    "cypress": "^9.4.1",
+    "cypress-image-snapshot": "^4.0.1"
+  }
+}
