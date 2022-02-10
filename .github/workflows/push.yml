@@ -1,4 +1,4 @@
-name: 'Increase Version'
+name: 'Increase Versions'
 
 on:
   push:
