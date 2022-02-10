@@ -36,5 +36,3 @@ jobs:
       - name: push new version
         run: |
           git push origin master
-          git checkout origin develop
-          git merge master

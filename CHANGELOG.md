@@ -2,30 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## 2.0.0-dev.0 (2022-02-10)
+### 2.0.1 (2022-02-10)
+
+## 2.0.0 (2022-02-10)
 
 
 ### ⚠ BREAKING CHANGES
 
-* breaking change to start from scratch 2
+* clean start
 
 ### Features
 
-* breaking change to start from scratch 2 ([b75c163](https://github.com/Ruandv/cypressTesting_POC/commit/b75c1633308afd5e96a888098da45dbeb353eb60))
+* clean start ([c9e280b](https://github.com/Ruandv/cypressTesting_POC/commit/c9e280b30ae5ce4fe57c087a016c310473760517))
 
-### 1.0.2-dev.0 (2022-02-10)
+# Changelog
 
-### 1.0.1 (2022-02-10)
-
-### 1.0.1-dev.3 (2022-02-10)
-
-### 1.0.1-dev.2 (2022-02-10)
-
-
-### Bug Fixes
-
-* test2 ([3450683](https://github.com/Ruandv/cypressTesting_POC/commit/3450683e0f87a609b8da5e01d84dcc65e5d81428))
-
-### 1.0.1-dev.1 (2022-02-10)
-
-### 1.0.1-dev.0 (2022-02-10)
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
