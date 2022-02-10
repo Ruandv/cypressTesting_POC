@@ -1,7 +1,7 @@
 name: 'Increase Versions'
 
 on:
-  pull_request:
+  push:
     branches:
       - 'develop'
 
