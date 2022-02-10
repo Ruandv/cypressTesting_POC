@@ -37,5 +37,4 @@ jobs:
         run: |
           git config --global user.name 'Ruan'
           git config --global user.email 'ruandv@gmail.com'
-          git commit -am "Bump Version"
-          git push
+          git push --follow-tags origin develop && npm publish --tag dev
