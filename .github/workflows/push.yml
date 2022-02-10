@@ -1,0 +1,19 @@
+name: 'Increase Version'
+
+on:
+  push:
+    branches:
+      - 'develop'
+
+jobs:
+  bump-version:
+    name: 'Bump Version on develop'
+    runs-on: ubuntu-latest
+
+    steps:
+     - name: standard-version-release
+       uses: abiglobalhealth/github-action-standard-version-release@v0.0.0
+        
+        
+        
+
