@@ -34,5 +34,8 @@ jobs:
 
 # Runs a single command using the runners shell
       - name: push new version
-        run: git push --follow-tags origin develop && npm publish --tag dev
-
+        run: |
+          git config --global user.name 'Ruan'
+          git config --global user.email 'ruandv@gmail.com'
+          git commit -am "Bump Version"
+          git push
