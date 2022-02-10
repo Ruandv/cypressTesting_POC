@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 2.0.0-dev.0 (2022-02-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change to start from scratch 2
+
+### Features
+
+* breaking change to start from scratch 2 ([b75c163](https://github.com/Ruandv/cypressTesting_POC/commit/b75c1633308afd5e96a888098da45dbeb353eb60))
+
 ### 1.0.2-dev.0 (2022-02-10)
 
 ### 1.0.1 (2022-02-10)
