@@ -31,3 +31,11 @@ jobs:
       # Runs a single command using the runners shell
       - name: Update version
         run: yarn run release:dev
+
+# Runs a single command using the runners shell
+      - name: push new version
+        run: |
+          git config --global user.name 'Ruan'
+          git config --global user.email 'ruandv@gmail.com'
+          git commit -am "Bump Version"
+          git push
