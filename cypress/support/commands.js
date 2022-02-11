@@ -6,8 +6,7 @@ addMatchImageSnapshotCommand({
     failureThresholdType: 'pixel',
     customDiffConfig: { threshold: 0.009 }, // per pixel
     capture: 'viewport', // capture viewport in screenshot
-});
-
+}); 
 
 Cypress.Commands.add('setResolution', (size) => {
     if (Array.isArray(size)) {
@@ -16,7 +15,6 @@ Cypress.Commands.add('setResolution', (size) => {
         cy.viewport(size);
     }
 });
-
 
 // wait for screen resizing before snapshot
 Cypress.Commands.add('matchImageSnapshotDelayed', (...args) => {

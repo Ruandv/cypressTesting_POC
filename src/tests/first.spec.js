@@ -6,7 +6,7 @@ describe('Tests for basic viewing', () => {
         cy.get(".myPhoto").as('image');
     });
 
-    it('should have the image',()=>{
-        cy.get(".myPhoto").as('image').matchImageSnapshot("FormalImage");
+    it('should have the image', () => {
+        cy.get(".myPhoto").matchImageSnapshot("FormalImage");
     })
 });
