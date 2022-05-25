@@ -1,6 +1,6 @@
 {
   "name": "cypresstesting_poc",
-  "version": "2.0.3-dev.1",
+  "version": "3.0.0",
   "description": "Basic visual testing using cypress.io'",
   "main": "index.js",
   "scripts": {
