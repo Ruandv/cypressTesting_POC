@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 6.0.0-dev.0 (2022-05-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* BUMP BECAUSE IT WORKS
+
+### Bug Fixes
+
+* BUMP BECAUSE IT WORKS ([cf41af6](https://github.com/Ruandv/cypressTesting_POC/commit/cf41af62a28dee823baa65d1bdf5688d70c6090f))
+
 ### 5.0.3 (2022-05-25)
 
 
