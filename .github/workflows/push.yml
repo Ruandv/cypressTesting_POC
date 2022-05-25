@@ -7,6 +7,11 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  # Check if this should execute"
+  main:
+    name: build condition
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'skip')"
   # This workflow contains a single job called "build"
   Bump-Version:
     # The type of runner that the job will run on
