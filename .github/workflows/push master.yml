@@ -40,7 +40,6 @@ jobs:
           git push origin master
   merge-master-back-to-dev:
     needs: Bump-Version
-    if: github.event.pull_request.merged == true
     timeout-minutes: 2
     runs-on: ubuntu-latest
     steps:
