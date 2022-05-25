@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 3.4.2-dev.1 (2022-05-25)
+
+
+### Bug Fixes
+
+* onpr closes ([99de571](https://github.com/Ruandv/cypressTesting_POC/commit/99de57151945d8e64fc59d7c3aaa85d337dafd15))
+
 ### 3.4.2-dev.0 (2022-05-25)
 
 
