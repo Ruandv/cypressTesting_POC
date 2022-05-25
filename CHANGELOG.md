@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 4.0.1-dev.0 (2022-05-25)
+
+
+### Bug Fixes
+
+* teeee ([892c39d](https://github.com/Ruandv/cypressTesting_POC/commit/892c39d7429a2d54db46e77a5e5ff4cc98b2f599))
+
 ## 4.0.0 (2022-05-25)
 
 
