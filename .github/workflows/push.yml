@@ -1,4 +1,4 @@
-name: 'Create pre release Version'
+name: 'Create pre  release Version'
 
 on:
   pull_request_target:
