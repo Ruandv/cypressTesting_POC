@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file. See [standa
 ## 4.0.0 (2022-05-25)
 
 
+### Bug Fixes
+
+* tatasdf ([dbcaa77](https://github.com/Ruandv/cypressTesting_POC/commit/dbcaa7769f62afdd54ac94b227e4085181a5127e))
+
+## 4.0.0 (2022-05-25)
+
+
 ### ⚠ BREAKING CHANGES
 
 * BUMPING VERSION
