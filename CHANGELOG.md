@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 4.0.0 (2022-05-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* BUMPING VERSION
+
+### Features
+
+* BUMPING VERSION ([df81bc7](https://github.com/Ruandv/cypressTesting_POC/commit/df81bc730d490d8e9fea3c52c06033052cfa497a))
+
 ## 4.0.0-dev.0 (2022-05-25)
 
 
