@@ -1,4 +1,4 @@
-name: 'Increase Versions'
+name: 'Create a Release Version'
 
 on:
   push:
@@ -30,9 +30,11 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Update version
-        run: yarn run release
+        run: yarn run release:dev
 
 # Runs a single command using the runners shell
       - name: push new version
         run: |
-          git push master
+          git config --global user.name 'Ruan'
+          git config --global user.email 'ruandv@gmail.com'
+          git push origin develop
