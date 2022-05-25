@@ -1,4 +1,4 @@
-name: 'Increase Versions'
+name: 'Create pre release Version'
 
 on:
   push:
