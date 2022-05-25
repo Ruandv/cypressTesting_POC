@@ -58,4 +58,4 @@ jobs:
           git pull
           git checkout -
           git merge --no-ff master -m "chore: Auto-merge master back to dev"
-          git push origin/develop
+          git push origin develop
