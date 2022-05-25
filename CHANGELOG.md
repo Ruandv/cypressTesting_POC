@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 3.4.2-dev.0 (2022-05-25)
+
+
+### Bug Fixes
+
+* removed if ([9d6a846](https://github.com/Ruandv/cypressTesting_POC/commit/9d6a846644903cc3cf8d7e746ff0cfc6ad00ce11))
+
 ### 3.4.1 (2022-05-25)
 
 
