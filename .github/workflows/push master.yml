@@ -30,7 +30,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Update version
-        run: yarn run release:dev
+        run: yarn run release
 
 # Runs a single command using the runners shell
       - name: push new version
