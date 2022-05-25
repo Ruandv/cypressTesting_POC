@@ -1,9 +1,9 @@
 name: 'Create a Release Version'
 
 on:
-  push:
-    branches:
-      - 'master'
+  pull_request:
+    branches: [master]
+    types: [closed]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
