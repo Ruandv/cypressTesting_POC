@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<<<<<<< HEAD
+=======
+## [3.1.0](https://github.com/Ruandv/cypressTesting_POC/compare/v3.0.0...v3.1.0) (2022-05-25)
+
+>>>>>>> master
 ## 3.1.0-dev.2 (2022-05-25)
 
 ## 3.1.0-dev.1 (2022-05-25)
