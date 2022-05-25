@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 5.0.0 (2022-05-25)
+
+
+### Bug Fixes
+
+* somethign3sdf ([1bd76ee](https://github.com/Ruandv/cypressTesting_POC/commit/1bd76ee963539247c1f5a3da808ac0665f6c0a09))
+
 ## [5.0.0-dev.0](https://github.com/Ruandv/cypressTesting_POC/compare/v3.1.0...v5.0.0-dev.0) (2022-05-25)
 
 
