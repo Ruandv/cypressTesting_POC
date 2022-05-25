@@ -14,6 +14,9 @@ describe('Tests for basic viewing', () => {
     //     cy.viewport(424,800).get(".page").matchImageSnapshot("Mobile");
     // })
     // Feature Change 1
+    // Feature Change 2
+    // Feature Change 3
+    // Feature Change 4
     // it('viewport size should trigger normal layout', () => {
     //     cy.viewport(768,893).get(".page").matchImageSnapshot("SideBySide");
     // })
