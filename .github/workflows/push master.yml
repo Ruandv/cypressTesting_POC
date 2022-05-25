@@ -44,7 +44,7 @@ jobs:
         run: |
           git config --global user.name 'Ruan'
           git config --global user.email 'ruandv@gmail.com'
-          git checkout origin master
+          git checkout develop
 
       # Runs a single command using the runners shell
       - name: merge master into develop
