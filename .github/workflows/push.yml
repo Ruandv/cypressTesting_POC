@@ -1,7 +1,7 @@
 name: 'Create pre release Version'
 
 on:
-  push:
+  pull_request:
     branches:
       - 'develop'
 
