@@ -37,10 +37,12 @@ All notable changes to this project will be documented in this file. See [standa
 * Test ([308f9fe](https://github.com/Ruandv/cypressTesting_POC/commit/308f9feeb5284cb3191a2abaa2f2feb0aba64692))
 * updated the master pipeline ([628c554](https://github.com/Ruandv/cypressTesting_POC/commit/628c554939313df189426d70341b4d4445482272))
 * updated the pipeline scripts ([a8858d0](https://github.com/Ruandv/cypressTesting_POC/commit/a8858d01da42c34f6691b2c485b2ff26b750c7cd))
+### 4.0.3 (2022-05-25)
 
 
 ### Bug Fixes
 
+<<<<<<< HEAD
 * added chang 2 ([c604bf8](https://github.com/Ruandv/cypressTesting_POC/commit/c604bf811d050f9183ee7aec19a21c05b671e1b4))
 * added chang 3 ([c1a1829](https://github.com/Ruandv/cypressTesting_POC/commit/c1a18297810fa590fc059c6ea4e4ed7f92ed4ea9))
 * added chang 4 ([cc52175](https://github.com/Ruandv/cypressTesting_POC/commit/cc52175bfb8b9a5291c8141d0cef65f6c0302e8d))
@@ -87,6 +89,9 @@ All notable changes to this project will be documented in this file. See [standa
 * updated develop pipline condition ([5f15b14](https://github.com/Ruandv/cypressTesting_POC/commit/5f15b1408235ea770ed6f7419a41f4cce156744a))
 * wip on pr pipeline ([cc06d92](https://github.com/Ruandv/cypressTesting_POC/commit/cc06d9263a8707dcc111f028b9063aaf29993dfc))
 * wip on pr pipeline ([9c70033](https://github.com/Ruandv/cypressTesting_POC/commit/9c70033cb0900554ca689b00b40d98212fcdea29))
+=======
+* somethign3 70 ([23e6dea](https://github.com/Ruandv/cypressTesting_POC/commit/23e6dea06aac131394efab11dcf186b938cfd602))
+>>>>>>> master
 
 ### 4.0.3-dev.0 (2022-05-25)
 
