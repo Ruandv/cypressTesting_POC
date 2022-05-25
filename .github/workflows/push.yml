@@ -7,16 +7,9 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  main:
-    name: build condition
+  print-tag:
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, 'skip')"
-      # This workflow contains a single job called "build"
-      Bump-Version:
-      # The type of runner that the job will run on
-      runs-on: ubuntu-latest
-
-      # Steps represent a sequence of tasks that will be executed as part of the job
       steps:
         # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
         - name: checkout code
@@ -27,8 +20,8 @@ jobs:
           
         - name: Git UserName
           run: git config --global user.name 'ruandv'
-          
-      # Runs a single command using the runners shell
+        
+        # Runs a single command using the runners shell
         - name: install packages
           run: yarn install
 
@@ -36,9 +29,9 @@ jobs:
         - name: Update version
           run: yarn run release:dev
 
-      # Runs a single command using the runners shell
-            - name: push new version
-              run: |
-                git config --global user.name 'Ruan'
-                git config --global user.email 'ruandv@gmail.com'
-                git push origin develop
+        # Runs a single command using the runners shell
+        - name: push new version
+          run: |
+            git config --global user.name 'Ruan'
+            git config --global user.email 'ruandv@gmail.com'
+            git push origin develop
