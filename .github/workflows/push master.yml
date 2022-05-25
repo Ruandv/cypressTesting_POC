@@ -40,22 +40,22 @@ jobs:
           git push origin master
 
       # Runs a single command using the runners shell
-      - name: checkout develop develop
-        run: |
-          git config --global user.name 'Ruan'
-          git config --global user.email 'ruandv@gmail.com'
-          git checkout develop
+      # - name: checkout develop develop
+      #   run: |
+      #     git config --global user.name 'Ruan'
+      #     git config --global user.email 'ruandv@gmail.com'
+      #     git checkout develop
 
-      # Runs a single command using the runners shell
-      - name: merge master into develop
-        run: |
-          git config --global user.name 'Ruan'
-          git config --global user.email 'ruandv@gmail.com'
-          git merge master -m 'chore: merge master into develop and skip version bump'
+      # # Runs a single command using the runners shell
+      # - name: merge master into develop
+      #   run: |
+      #     git config --global user.name 'Ruan'
+      #     git config --global user.email 'ruandv@gmail.com'
+      #     git merge master -m 'chore: merge master into develop and skip version bump'
 
-      # Runs a single command using the runners shell
-      - name: push to develop
-        run: |
-          git config --global user.name 'Ruan'
-          git config --global user.email 'ruandv@gmail.com'
-          git push origin/develop
+      # # Runs a single command using the runners shell
+      # - name: push to develop
+      #   run: |
+      #     git config --global user.name 'Ruan'
+      #     git config --global user.email 'ruandv@gmail.com'
+      #     git push origin/develop
