@@ -54,8 +54,8 @@ jobs:
       run: |
           git fetch --unshallow
           git pull
-          git checkout origin/master
+          git checkout origin master
           git pull
-          git checkout origin/develop
+          git checkout origin develop
           git merge --no-ff master -m "chore: Auto-merge master back to dev"
           git push origin develop
