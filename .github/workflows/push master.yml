@@ -37,4 +37,4 @@ jobs:
         run: |
           git config --global user.name 'Ruan'
           git config --global user.email 'ruandv@gmail.com'
-          git push origin develop
+          git push origin master
