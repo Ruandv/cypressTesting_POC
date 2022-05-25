@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 3.4.0-dev.0 (2022-05-25)
+
+
+### Features
+
+* new back merge ([6eced89](https://github.com/Ruandv/cypressTesting_POC/commit/6eced89d7d2242328af621e3a2ba6010c4e6fca0))
+
 ### 3.3.3-dev.0 (2022-05-25)
 
 
