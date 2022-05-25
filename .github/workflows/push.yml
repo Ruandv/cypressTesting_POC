@@ -1,9 +1,9 @@
-name: 'Create pre release Version'
+name: 'Create pre  release Version'
 
 on:
-  push:
-    branches:
-      - 'develop'
+  pull_request:
+    branches: [develop]
+    types: [closed]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
