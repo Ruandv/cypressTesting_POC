@@ -2,6 +2,69 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 3.3.2 (2022-05-25)
+
+### 3.3.2-dev.0 (2022-05-25)
+
+### 3.3.1 (2022-05-25)
+
+### 3.3.1-dev.0 (2022-05-25)
+
+## 3.3.0 (2022-05-25)
+
+
+### Bug Fixes
+
+* reverted ([40a924d](https://github.com/Ruandv/cypressTesting_POC/commit/40a924d1d8ec0fc5d8253e153c8d8bc091de7050))
+
+## 3.3.0-dev.3 (2022-05-25)
+
+## 3.3.0-dev.2 (2022-05-25)
+
+
+### Bug Fixes
+
+* reverted ([759c02d](https://github.com/Ruandv/cypressTesting_POC/commit/759c02db7f6bb6088747ee7da33cda1ecd5c5e3a))
+ 
+## 3.3.0 (2022-05-25)
+
+
+### Features
+
+* more changes to pl ([faf561c](https://github.com/Ruandv/cypressTesting_POC/commit/faf561cd49b50221c9a0ea9464a5880d6c3b5487))
+ 
+
+## 3.3.0-dev.1 (2022-05-25)
+
+## 3.3.0-dev.0 (2022-05-25)
+
+
+### Features
+
+* more changes to pl ([cf48d21](https://github.com/Ruandv/cypressTesting_POC/commit/cf48d21672af500a2cafa5cd57ff41b7271d8991))
+
+### 3.2.2 (2022-05-25)
+
+
+### Bug Fixes
+
+* added more changes to the pipeline ([92dbecf](https://github.com/Ruandv/cypressTesting_POC/commit/92dbecf59bc2dde21d33f03c7523f56fe1f9d09e))
+
+
+### 3.2.2-dev.1 (2022-05-25)
+
+
+### Bug Fixes
+
+* added more changes to the pipeline ([cbfbdf7](https://github.com/Ruandv/cypressTesting_POC/commit/cbfbdf7b0aaba7a4674066bb56bd2dfb719dd22c))
+
+### 3.2.2-dev.0 (2022-05-25)
+
+
+### Bug Fixes
+
+* added lines ([04dec1d](https://github.com/Ruandv/cypressTesting_POC/commit/04dec1d36a503247dcfabed7fcdc9aa66957c792))
+
 ### 3.2.1 (2022-05-25)
 
 ## 3.2.0 (2022-05-25)
